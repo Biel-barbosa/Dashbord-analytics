@@ -85,4 +85,4 @@ Desenvolvido com ❤️ como parte do meu portfólio profissional.
 
 ---
 
-✨ [Ver Demo]([https://lovable.dev/projects/1b2c6305-424c-4f5c-94d3-db728000bbbe](https://dashbord-analytics.vercel.app/dashboard))
+✨ [Ver Demo](https://dashbord-analytics.vercel.app/dashboard)
