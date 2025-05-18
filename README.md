@@ -85,4 +85,4 @@ Desenvolvido com ❤️ como parte do meu portfólio profissional.
 
 ---
 
-✨ [Ver Demo](https://dashbord-analytics.vercel.app/dashboard)
+✨ Link do projeto: https://dashbord-analytics-98cswffy6-gabriels-projects-16db9a64.vercel.app/
